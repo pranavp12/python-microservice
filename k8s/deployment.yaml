@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: python-microservice
-        image: python-microservice:v1.0.0
+        image: python-microservice:v1.1.0
         ports:
         - containerPort: 5000
         env:
